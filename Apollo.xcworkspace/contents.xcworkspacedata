@@ -7,7 +7,4 @@
    <FileRef
       location = "group:ApolloWebSocket.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:ApolloSQLite.xcodeproj">
-   </FileRef>
 </Workspace>
